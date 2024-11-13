@@ -11,10 +11,11 @@ import android.widget.ImageView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
+import com.ffdev.fly.R;
+
 import java.util.List;
 import java.util.Map;
 
-import dji.sampleV5.aircraft.R;
 import dji.sampleV5.aircraft.util.DensityUtil;
 
 public class PopupNumberPickerDouble extends PopupWindow {

@@ -6,8 +6,9 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.commit
 import androidx.navigation.Navigation
-import dji.sampleV5.aircraft.databinding.ActivityMainBinding
-import dji.sampleV5.aircraft.databinding.ActivityTestingToolsBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.ActivityMainBinding
+import com.ffdev.fly.databinding.ActivityTestingToolsBinding
 import dji.sampleV5.aircraft.models.MSDKCommonOperateVm
 import dji.sampleV5.aircraft.util.DJIToastUtil
 import dji.sampleV5.aircraft.util.ToastUtils

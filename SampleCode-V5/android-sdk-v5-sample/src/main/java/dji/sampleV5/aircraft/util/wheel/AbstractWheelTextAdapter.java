@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import dji.sampleV5.aircraft.R;
+import com.ffdev.fly.R;
 
 
 /**

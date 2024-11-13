@@ -8,11 +8,9 @@ import android.view.ViewGroup
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.view.isVisible
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.R
 import dji.sampleV5.aircraft.models.FlySafeVM
-import dji.sampleV5.aircraft.BuildConfig
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.FragFlySafePageBinding
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.FragFlySafePageBinding
 import dji.sampleV5.aircraft.keyvalue.KeyValueDialogUtil
 import dji.sampleV5.aircraft.util.Helper
 import dji.sdk.keyvalue.value.common.LocationCoordinate2D

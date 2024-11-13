@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
 import dji.sampleV5.aircraft.data.QuickTestConfig
-import dji.sampleV5.aircraft.databinding.FragSimulatorPageBinding
+import com.ffdev.fly.databinding.FragSimulatorPageBinding
 import dji.sampleV5.aircraft.models.SimulatorVM
 import dji.sampleV5.aircraft.util.Helper
 import dji.sampleV5.aircraft.util.ToastUtils

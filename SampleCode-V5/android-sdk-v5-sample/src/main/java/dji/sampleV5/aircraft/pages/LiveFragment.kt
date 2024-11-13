@@ -16,7 +16,7 @@ import android.widget.SeekBar
 import android.widget.TextView
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.models.LiveStreamVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.sdk.keyvalue.value.common.ComponentIndexType

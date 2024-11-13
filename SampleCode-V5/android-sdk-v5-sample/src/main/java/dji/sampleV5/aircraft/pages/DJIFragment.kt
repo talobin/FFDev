@@ -10,7 +10,7 @@ import android.widget.EditText
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.activityViewModels
 import androidx.lifecycle.Lifecycle
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.MAIN_FRAGMENT_PAGE_TITLE
 import dji.sampleV5.aircraft.models.MSDKInfoVm
 import dji.sampleV5.aircraft.util.wheel.PopupNumberPicker

@@ -9,8 +9,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragRecordBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragRecordBinding
 import dji.sampleV5.aircraft.models.MegaphoneVM
 import dji.v5.utils.common.ContextUtil
 

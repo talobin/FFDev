@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.PipelineAdapter
-import dji.sampleV5.aircraft.databinding.FragMopDownPageBinding
+import com.ffdev.fly.databinding.FragMopDownPageBinding
 import dji.sampleV5.aircraft.models.MopVM
 import dji.sdk.keyvalue.value.mop.PipelineDeviceType
 import dji.sdk.keyvalue.value.mop.TransmissionControlType

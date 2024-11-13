@@ -17,11 +17,12 @@ import android.widget.ListView;
 import android.widget.PopupWindow;
 import android.widget.TextView;
 
+import com.ffdev.fly.R;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import dji.sampleV5.aircraft.R;
 import dji.sampleV5.aircraft.util.Util;
 import dji.v5.utils.common.ContextUtil;
 import dji.v5.utils.common.DisplayUtil;

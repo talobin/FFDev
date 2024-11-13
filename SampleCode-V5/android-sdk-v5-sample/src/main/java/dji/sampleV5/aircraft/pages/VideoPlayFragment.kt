@@ -8,10 +8,10 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.SeekBar
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.MEDIA_FILE_DETAILS_STR
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.VideoPlayPageBinding
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.VideoPlayPageBinding
 import dji.sampleV5.aircraft.models.VideoPlayVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.common.callback.CommonCallbacks

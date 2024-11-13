@@ -1,7 +1,6 @@
 package dji.sampleV5.aircraft.models
 
 import androidx.lifecycle.MutableLiveData
-import dji.sampleV5.aircraft.R
 import dji.sampleV5.aircraft.data.DJIToastResult
 import dji.sdk.keyvalue.key.CameraKey
 import dji.sdk.keyvalue.key.KeyTools

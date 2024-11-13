@@ -6,9 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.CompoundButton
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.FragPerceptionPageBinding
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.FragPerceptionPageBinding
 import dji.sampleV5.aircraft.models.PerceptionVM
 import dji.sampleV5.aircraft.util.Helper
 import dji.v5.common.callback.CommonCallbacks

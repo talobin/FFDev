@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import dji.rtk.CoordinateSystem
 import dji.sampleV5.aircraft.util.Helper
-import dji.sampleV5.aircraft.databinding.FragNetworkRtkPageBinding
+import com.ffdev.fly.databinding.FragNetworkRtkPageBinding
 import dji.sampleV5.aircraft.models.RTKNetworkVM
 import dji.sampleV5.moduledrone.pages.RTKCenterFragment.Companion.KEY_IS_CMCC_RTK
 import dji.v5.ux.core.extension.show

@@ -1,7 +1,7 @@
 package dji.sampleV5.aircraft.models
 
 import androidx.lifecycle.MutableLiveData
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sdk.keyvalue.key.RemoteControllerKey
 import dji.sdk.keyvalue.value.remotecontroller.PairingState
 import dji.v5.et.action

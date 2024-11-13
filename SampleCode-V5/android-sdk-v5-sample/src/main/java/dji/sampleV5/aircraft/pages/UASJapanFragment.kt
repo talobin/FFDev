@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.databinding.FragUasJpPageBinding
+import com.ffdev.fly.databinding.FragUasJpPageBinding
 import dji.sampleV5.aircraft.models.UASJapanVM
 import dji.v5.utils.common.JsonUtil
 import dji.v5.utils.common.LogUtils

@@ -1,9 +1,9 @@
 package dji.sampleV5.aircraft.models
 
-import android.R
 import android.content.Context
 import android.widget.ArrayAdapter
 import androidx.lifecycle.MutableLiveData
+import com.ffdev.fly.R
 import com.google.android.gms.common.ConnectionResult
 import com.google.android.gms.common.GoogleApiAvailability
 import dji.sampleV5.aircraft.data.FlightControlState
@@ -255,17 +255,17 @@ class WayPointV3VM : DJIViewModel() {
         return if (isGoogleMapsSupported()) {
             ArrayAdapter<String>(
                 ContextUtil.getContext(),
-                R.layout.simple_spinner_dropdown_item,
+                android.R.layout.simple_spinner_dropdown_item,
                 ContextUtil.getContext().resources.getStringArray(
-                    dji.sampleV5.aircraft.R.array.maps_array_all
+                   R.array.maps_array_all
                 )
             )
         } else {
             ArrayAdapter<String>(
                 ContextUtil.getContext(),
-                R.layout.simple_spinner_dropdown_item,
+                android.R.layout.simple_spinner_dropdown_item,
                 ContextUtil.getContext().resources.getStringArray(
-                    dji.sampleV5.aircraft.R.array.maps_array
+                    R.array.maps_array
                 )
             )
         }

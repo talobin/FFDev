@@ -10,9 +10,9 @@ import android.widget.RadioGroup
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.view.isVisible
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.FragUpgradePageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.FragUpgradePageBinding
 import dji.sampleV5.aircraft.models.UpgradeVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.common.callback.CommonCallbacks

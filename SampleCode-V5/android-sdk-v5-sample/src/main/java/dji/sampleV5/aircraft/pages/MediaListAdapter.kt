@@ -10,8 +10,8 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.dynamicanimation.animation.DynamicAnimation
 import androidx.recyclerview.widget.RecyclerView
+import com.ffdev.fly.R
 
-import dji.sampleV5.aircraft.R
 import dji.sampleV5.aircraft.util.AnimationUtils
 import dji.v5.common.callback.CommonCallbacks
 import dji.v5.common.error.IDJIError

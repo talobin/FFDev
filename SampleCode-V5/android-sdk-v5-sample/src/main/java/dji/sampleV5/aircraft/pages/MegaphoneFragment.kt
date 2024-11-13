@@ -9,9 +9,9 @@ import android.widget.AdapterView
 import android.widget.SeekBar
 import androidx.fragment.app.FragmentTransaction
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.FragMegaphonePageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.FragMegaphonePageBinding
 import dji.sampleV5.aircraft.models.MegaphoneVM
 
 import dji.v5.common.callback.CommonCallbacks

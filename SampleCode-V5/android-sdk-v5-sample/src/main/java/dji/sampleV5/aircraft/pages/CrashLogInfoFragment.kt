@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.databinding.FragLogInfoPageBinding
+import com.ffdev.fly.databinding.FragLogInfoPageBinding
 import dji.sampleV5.aircraft.models.MSDKCrashLogVM
 import dji.sampleV5.aircraft.util.ToastUtils
 

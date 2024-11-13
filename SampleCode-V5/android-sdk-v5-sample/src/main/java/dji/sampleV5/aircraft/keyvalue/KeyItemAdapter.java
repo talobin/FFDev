@@ -14,11 +14,12 @@ import androidx.annotation.NonNull;
 import androidx.collection.SparseArrayCompat;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.ffdev.fly.R;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Pattern;
 
-import dji.sampleV5.aircraft.R;
 
 
 public class KeyItemAdapter extends RecyclerView.Adapter<KeyItemAdapter.ComViewHolder> implements Filterable {

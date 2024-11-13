@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.FrameLayout
 import android.widget.LinearLayout
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.models.CameraStreamListVM
 import dji.sdk.keyvalue.value.common.ComponentIndexType
 

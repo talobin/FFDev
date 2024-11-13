@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.ImageButton
 import android.widget.TextView
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragMainTitleBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragMainTitleBinding
 import dji.sampleV5.aircraft.pages.DJIFragment
 import dji.v5.utils.common.LogUtils
 

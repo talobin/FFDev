@@ -1,7 +1,7 @@
 package dji.sampleV5.aircraft.data
 
 import androidx.annotation.StringRes
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sdk.errorcode.DJIErrorCode
 import dji.v5.utils.common.StringUtils
 

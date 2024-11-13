@@ -11,7 +11,7 @@ import android.widget.EditText
 import android.widget.FrameLayout
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatDialog
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.v5.common.callback.CommonCallbacks
 
 /**

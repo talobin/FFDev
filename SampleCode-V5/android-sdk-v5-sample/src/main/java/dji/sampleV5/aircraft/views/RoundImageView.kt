@@ -7,7 +7,7 @@ import android.graphics.Path
 import android.graphics.RectF
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatImageView
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 
 class RoundImageView(context: Context?, attrs: AttributeSet?) : AppCompatImageView(context!!, attrs) {
     private var mPaint: Paint? = null

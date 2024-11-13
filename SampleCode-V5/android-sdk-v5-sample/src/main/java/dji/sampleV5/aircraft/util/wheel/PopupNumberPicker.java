@@ -10,9 +10,10 @@ import android.view.ViewGroup;
 import android.widget.ImageButton;
 import android.widget.PopupWindow;
 
+import com.ffdev.fly.R;
+
 import java.util.List;
 
-import dji.sampleV5.aircraft.R;
 import dji.sampleV5.aircraft.util.DensityUtil;
 
 public class PopupNumberPicker extends PopupWindow {

@@ -1,6 +1,7 @@
 package dji.sampleV5.aircraft
 
 import androidx.fragment.app.commit
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.AircraftFragmentPageInfoFactory
 import dji.sampleV5.aircraft.data.CommonFragmentPageInfoFactory
 import dji.sampleV5.aircraft.data.FragmentPageItemList

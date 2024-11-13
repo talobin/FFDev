@@ -10,7 +10,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.databinding.FragLocalFileBinding
+import com.ffdev.fly.databinding.FragLocalFileBinding
 import dji.sampleV5.aircraft.models.MegaphoneVM
 import dji.v5.common.callback.CommonCallbacks
 import dji.v5.common.error.IDJIError

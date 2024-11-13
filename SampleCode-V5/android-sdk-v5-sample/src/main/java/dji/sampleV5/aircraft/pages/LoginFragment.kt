@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragLoginAccountPageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragLoginAccountPageBinding
 import dji.sampleV5.aircraft.models.LoginVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.common.callback.CommonCallbacks

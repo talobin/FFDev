@@ -1,6 +1,7 @@
 package dji.sampleV5.aircraft.data
 
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
+
 
 /**
  * Class Description

@@ -33,10 +33,11 @@ import android.view.ViewGroup.LayoutParams;
 import android.view.animation.Interpolator;
 import android.widget.LinearLayout;
 
+import com.ffdev.fly.R;
+
 import java.util.LinkedList;
 import java.util.List;
 
-import dji.sampleV5.aircraft.R;
 
 /**
  * Numeric wheel view.

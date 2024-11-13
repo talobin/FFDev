@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.Navigation
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragUasPageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragUasPageBinding
 
 /**
  * Description :无人机远程识别的演示入口页面

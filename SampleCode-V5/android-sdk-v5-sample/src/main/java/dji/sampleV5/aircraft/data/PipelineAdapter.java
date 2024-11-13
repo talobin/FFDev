@@ -27,7 +27,9 @@ import androidx.annotation.NonNull;
 import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AlertDialog;
 import androidx.recyclerview.widget.RecyclerView;
-import dji.sampleV5.aircraft.R;
+
+import com.ffdev.fly.R;
+
 import dji.v5.common.error.DJIPipeLineError;
 import dji.v5.manager.mop.DataResult;
 import dji.v5.manager.mop.Pipeline;

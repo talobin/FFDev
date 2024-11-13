@@ -6,7 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.CompoundButton
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.databinding.FragUasFrancePageBinding
+import com.ffdev.fly.databinding.FragUasFrancePageBinding
 import dji.sampleV5.aircraft.models.UASFranceVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.common.callback.CommonCallbacks

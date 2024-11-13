@@ -9,7 +9,7 @@ import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import android.widget.ArrayAdapter
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.databinding.FragPayloadDataPageBinding
+import com.ffdev.fly.databinding.FragPayloadDataPageBinding
 import dji.sampleV5.aircraft.models.PayLoadDataVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.manager.aircraft.payload.PayloadIndexType

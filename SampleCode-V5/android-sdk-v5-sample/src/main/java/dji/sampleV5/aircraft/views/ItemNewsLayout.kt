@@ -5,8 +5,7 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.view.View
 import androidx.constraintlayout.widget.ConstraintLayout
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.ItemNewsBinding
+import com.ffdev.fly.databinding.ItemNewsBinding
 import dji.v5.ux.databinding.UxsdkPrimaryFlightDisplayWidgetBinding
 
 /**

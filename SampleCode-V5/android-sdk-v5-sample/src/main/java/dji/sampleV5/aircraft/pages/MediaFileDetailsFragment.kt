@@ -9,9 +9,9 @@ import android.view.ViewGroup
 import androidx.core.os.bundleOf
 import androidx.navigation.Navigation
 import com.bumptech.glide.Glide
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.MEDIA_FILE_DETAILS_STR
-import dji.sampleV5.aircraft.databinding.FragMediafileDetailsBinding
+import com.ffdev.fly.databinding.FragMediafileDetailsBinding
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.sdk.keyvalue.value.camera.MediaFileType
 import dji.v5.common.callback.CommonCallbacks

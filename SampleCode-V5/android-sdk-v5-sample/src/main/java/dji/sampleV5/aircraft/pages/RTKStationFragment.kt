@@ -7,10 +7,10 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.recyclerview.widget.LinearLayoutManager
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.DJIRTKBaseStationConnectInfo
 import dji.sampleV5.aircraft.data.RtkStationScanAdapter
-import dji.sampleV5.aircraft.databinding.FragStationRtkPageBinding
+import com.ffdev.fly.databinding.FragStationRtkPageBinding
 import dji.sampleV5.aircraft.models.RTKStationVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.sdk.keyvalue.value.common.LocationCoordinate3D

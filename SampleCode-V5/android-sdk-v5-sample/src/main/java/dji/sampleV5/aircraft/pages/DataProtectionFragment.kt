@@ -10,8 +10,8 @@ import android.view.ViewGroup
 import android.widget.CompoundButton
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragDataProtectionPageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragDataProtectionPageBinding
 import dji.sampleV5.aircraft.models.DataProtectionVm
 import dji.sampleV5.aircraft.util.Helper
 import dji.sampleV5.aircraft.util.ToastUtils

@@ -5,8 +5,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.Navigation
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragPayloadCenterPageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragPayloadCenterPageBinding
 import dji.sampleV5.aircraft.util.Helper
 import dji.v5.manager.aircraft.payload.PayloadIndexType
 

@@ -8,7 +8,7 @@ import android.view.SurfaceHolder
 import android.view.SurfaceView
 import android.view.View
 import android.view.View.OnTouchListener
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.v5.utils.common.LogUtils
 import java.util.concurrent.atomic.AtomicBoolean
 import kotlin.math.cos

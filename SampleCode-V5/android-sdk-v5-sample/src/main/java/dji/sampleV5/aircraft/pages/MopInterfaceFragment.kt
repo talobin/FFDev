@@ -9,8 +9,8 @@ import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import android.widget.ArrayAdapter
 import androidx.fragment.app.viewModels
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragMopInterfacePageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragMopInterfacePageBinding
 import dji.sampleV5.aircraft.models.MopVM
 import dji.sdk.keyvalue.value.mop.PipelineDeviceType
 import dji.sdk.keyvalue.value.mop.TransmissionControlType

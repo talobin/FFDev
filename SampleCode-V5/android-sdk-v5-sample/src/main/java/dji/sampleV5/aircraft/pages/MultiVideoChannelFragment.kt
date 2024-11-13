@@ -8,8 +8,8 @@ import android.view.ViewGroup
 import androidx.core.os.bundleOf
 import androidx.fragment.app.FragmentContainerView
 import androidx.fragment.app.activityViewModels
+import com.ffdev.fly.R
 import com.google.android.material.floatingactionbutton.FloatingActionButton
-import dji.sampleV5.aircraft.R
 import dji.sampleV5.aircraft.models.MultiVideoChannelVM
 import dji.sampleV5.aircraft.util.ToastUtils
 

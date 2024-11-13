@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.activityViewModels
-import dji.sampleV5.aircraft.databinding.FragDiagnosticPageBinding
+import com.ffdev.fly.databinding.FragDiagnosticPageBinding
 import dji.sampleV5.aircraft.models.DiagnosticVm
 
 class DiagnosticFragment : DJIFragment() {

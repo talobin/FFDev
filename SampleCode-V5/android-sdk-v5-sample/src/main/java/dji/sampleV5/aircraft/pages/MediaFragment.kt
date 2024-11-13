@@ -12,9 +12,9 @@ import androidx.fragment.app.activityViewModels
 import androidx.navigation.Navigation
 import androidx.navigation.fragment.FragmentNavigatorExtras
 import androidx.recyclerview.widget.GridLayoutManager
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.MEDIA_FILE_DETAILS_STR
-import dji.sampleV5.aircraft.databinding.FragMediaPageBinding
+import com.ffdev.fly.databinding.FragMediaPageBinding
 import dji.sampleV5.aircraft.models.MediaVM
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.sdk.keyvalue.value.camera.CameraStorageLocation

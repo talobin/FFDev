@@ -15,8 +15,8 @@ import android.view.ViewGroup
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import androidx.recyclerview.widget.LinearLayoutManager
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragmentKeyListBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragmentKeyListBinding
 import dji.sampleV5.aircraft.keyvalue.KeyItemHelper.processSubListLogic
 import dji.sampleV5.aircraft.util.ToastUtils.showToast
 import dji.sampleV5.aircraft.util.Util

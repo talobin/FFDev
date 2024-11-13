@@ -10,8 +10,8 @@ import android.widget.RadioGroup
 import androidx.core.view.isVisible
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.Navigation
-import dji.sampleV5.aircraft.R
-import dji.sampleV5.aircraft.databinding.FragRtkCenterPageBinding
+import com.ffdev.fly.R
+import com.ffdev.fly.databinding.FragRtkCenterPageBinding
 import dji.sampleV5.aircraft.models.RTKCenterVM
 import dji.sampleV5.aircraft.pages.DJIFragment
 import dji.sampleV5.aircraft.util.ToastUtils

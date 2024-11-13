@@ -7,9 +7,9 @@ import android.view.View
 import android.widget.FrameLayout
 import androidx.activity.ComponentActivity
 import androidx.activity.viewModels
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.source.VersionInfo
-import dji.sampleV5.aircraft.databinding.LayoutVersionInfoBinding
+import com.ffdev.fly.databinding.LayoutVersionInfoBinding
 import dji.sampleV5.aircraft.models.VersionInfoVm
 import dji.sampleV5.aircraft.util.DialogUtil
 import dji.v5.utils.common.DjiSharedPreferencesManager

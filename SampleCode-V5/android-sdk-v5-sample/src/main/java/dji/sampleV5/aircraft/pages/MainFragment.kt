@@ -9,11 +9,11 @@ import androidx.core.os.bundleOf
 import androidx.fragment.app.activityViewModels
 import androidx.navigation.Navigation
 import androidx.recyclerview.widget.LinearLayoutManager
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.FragmentPageItem
 import dji.sampleV5.aircraft.data.FragmentPageItemList
 import dji.sampleV5.aircraft.data.MAIN_FRAGMENT_PAGE_TITLE
-import dji.sampleV5.aircraft.databinding.FragMainPageBinding
+import com.ffdev.fly.databinding.FragMainPageBinding
 import dji.sampleV5.aircraft.models.MSDKCommonOperateVm
 import dji.sampleV5.aircraft.util.ToastUtils
 import dji.v5.common.callback.CommonCallbacks

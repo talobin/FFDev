@@ -12,10 +12,10 @@ import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.activityViewModels
 import androidx.fragment.app.setFragmentResultListener
 import androidx.lifecycle.ViewModelProvider
-import dji.sampleV5.aircraft.R
+import com.ffdev.fly.R
 import dji.sampleV5.aircraft.data.DEFAULT_STR
-import dji.sampleV5.aircraft.databinding.FragAppSilentlyUpgradePageBinding
-import dji.sampleV5.aircraft.databinding.VideoChannelPageBinding
+import com.ffdev.fly.databinding.FragAppSilentlyUpgradePageBinding
+import com.ffdev.fly.databinding.VideoChannelPageBinding
 import dji.sampleV5.aircraft.models.MultiVideoChannelVM
 import dji.sampleV5.aircraft.models.VideoChannelVM
 import dji.sampleV5.aircraft.models.VideoChannelVMFactory
