@@ -64,7 +64,6 @@ abstract class DJIMainActivity : AppCompatActivity() {
 
     abstract fun prepareUxActivity()
 
-    abstract fun prepareTestingToolsActivity()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -105,7 +104,6 @@ abstract class DJIMainActivity : AppCompatActivity() {
     }
 
     private fun handleAfterPermissionPermitted() {
-        prepareTestingToolsActivity()
     }
 
     @SuppressLint("SetTextI18n")
@@ -118,16 +116,6 @@ abstract class DJIMainActivity : AppCompatActivity() {
             binding.textCoreInfo.text = it.coreInfo.toString()
         }
 
-        binding.iconSdkForum.setOnClickListener {
-            Helper.startBrowser(this, StringUtils.getResStr(R.string.sdk_forum_url))
-        }
-
-        binding.iconReleaseNode.setOnClickListener {
-            Helper.startBrowser(this, StringUtils.getResStr(R.string.release_node_url))
-        }
-        binding.iconTechSupport.setOnClickListener {
-            Helper.startBrowser(this, StringUtils.getResStr(R.string.tech_support_url))
-        }
         binding.viewBaseInfo.setOnClickListener {
             baseMainActivityVm.doPairing {
                 showToast(it)
@@ -179,13 +167,6 @@ abstract class DJIMainActivity : AppCompatActivity() {
         enableShowCaseButton(binding.defaultLayoutButton, cl)
     }
 
-    fun <T> enableWidgetList(cl: Class<T>) {
-        enableShowCaseButton(binding.widgetListButton, cl)
-    }
-
-    fun <T> enableTestingTools(cl: Class<T>) {
-        enableShowCaseButton(binding.testingToolButton, cl)
-    }
 
     private fun <T> enableShowCaseButton(view: View, cl: Class<T>) {
         view.isEnabled = true
